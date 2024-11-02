@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background-image: url(../imagenes/fondo_leer.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#tabla_registro{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 20px;
+}
+
+h2{
+    padding: 10px;
+}
